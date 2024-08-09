@@ -10,10 +10,16 @@ Hides the location window on the top center and top right of the screen.
 [*] 7daystodie Version: 1.0 (b333)
 [*] Install with [url=https://www.nexusmods.com/about/vortex/]Vortex[/url].
 [/list]
-[size=5]Features[/size]
+[size=5]Changelog[/size]
+[size=4]1.0.2 Optimize patch[/size]
 [list]
-[*] Hides the location window on the top center and top right of the screen.
-[*] Compatible with other interfaces mods as long as it is loaded afterward. 
+[*] fix: Use a safer and better approach to eliminate XML warnings.[/list]
+[size=4]1.0.1 Compatibility patch[/size]
+[list]
+[*] fix: Compatible with other interfaces mods as long as it is loaded afterward. [/list]
+[size=4]1.0.0 Initial release[/size]
+[list]
+[*] feat: Hides the location window on the top center and top right of the screen.
 [/list]
 [size=4]Modding Sources[/size]
 [list]

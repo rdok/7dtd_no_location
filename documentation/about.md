@@ -9,9 +9,13 @@
 - 7daystodie Version: 1.0 (b333)
 - Install with [Vortex](https://www.nexusmods.com/about/vortex/).
 
-## Features
-- Hides the location window on the top center and top right of the screen.
-- Compatible with other interfaces mods as long as it is loaded afterward. 
+## Changelog
+### 1.0.2 Optimize patch
+- fix: Use a safer and better approach to eliminate XML warnings.
+### 1.0.1 Compatibility patch
+- fix: Compatible with other interfaces mods as long as it is loaded afterward. 
+### 1.0.0 Initial release
+- feat: Hides the location window on the top center and top right of the screen.
 
 ### Modding Sources
 - [AGF - V1.0 - HUD PLUS](https://www.nexusmods.com/7daystodie/mods/870) for a mod template
